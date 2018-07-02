@@ -1,0 +1,34 @@
+Header{
+    position : relative;
+    display : block;
+    background : rgba(3, 18, 65, 0.836);
+    color : primary;
+    height: 70px;
+    border-radius : 1px;
+
+}
+.logo{
+    float : left;
+    font : 20px palatino;
+    color : rgb(240, 233, 233);
+    margin : 20px;
+}
+.links{
+    float : right;
+    margin : 20px;
+}
+li{
+    font:22px georgia;
+	background-color: rgb(190, 117, 8);
+	padding: 8px;
+	border-radius: 6px;
+	display: inline;
+	margin-right: 20px;
+	height: 10px; width: 18px;
+}
+li:hover{
+    background-color: rgb(7, 186, 192);
+}
+a{
+    text-decoration: none;
+}

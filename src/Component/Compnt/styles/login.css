@@ -1,0 +1,38 @@
+.Login{
+    height: 510px;
+    width: cover;
+    position : relative;
+    background : rgb(255, 255, 255);
+    color:primary;
+}
+form{
+    padding:15%;
+}
+fieldset{
+    border-radius:10px;
+    border : none;
+}
+legend{
+    float:left;
+}
+input{
+    font : 20px arial;
+    border : none;
+    border-bottom: 2px solid rgb(94, 38, 38);
+    border-radius: 3px;
+	width: 290px;
+	height: 40px;
+	margin: 20px;
+	margin-bottom: 10px;
+}
+.butt{
+    font:20px arial;
+    width:100px;
+    height:40px;
+    border-radius: 6px;
+    margin: 20px;
+	margin-bottom: 10px;
+}
+.butt:hover{
+    background-color: rgba(3, 18, 65, 0.836);
+}

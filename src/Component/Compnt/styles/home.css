@@ -1,0 +1,20 @@
+.HomePage{
+    height: 510px;
+    width: cover;
+    position : relative;
+    background : rgb(255, 255, 255);
+    color:primary;
+}
+.content{
+    padding:5%;
+    padding-left:40%;
+    padding-top:25%;
+    float : right;
+
+}
+h1{
+    font : 40px georgia;
+}
+h4{
+    font : 20px georgia;
+}

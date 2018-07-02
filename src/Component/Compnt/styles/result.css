@@ -1,0 +1,39 @@
+.Result{
+    height: 510px;
+    width: cover;
+    position : relative;
+    background : rgb(255, 255, 255);
+    color:primary;
+}
+input[type="text"]{
+    width:200px;
+    height :40px;
+    font:15px arial;
+    border:none;
+    border-bottom:2px solid;
+    border-left:2px solid;
+    border-radius: 3px;
+}
+.butt{
+    font:20px arial;
+    width:100px;
+    height:45px;
+    border-radius: 6px;
+    margin: 5px;
+   
+	
+}
+.butt:hover{
+    background-color: rgba(3, 18, 65, 0.836);
+}
+.but{
+    float :right;
+    font:13px palatino;
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.but:hover{
+    background-color: rgba(8, 65, 3, 0.836);
+}

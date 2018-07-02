@@ -1,0 +1,45 @@
+.Signup{
+    height: 510px;
+    width: cover;
+    position : relative;
+    background : rgb(255, 255, 255);
+    color:primary;
+}
+form{
+    margin-right:5%;
+    float:right;
+   
+}
+fieldset{
+    border-radius:10px;
+    border : none;
+}
+legend{
+    float:left;
+}
+input{
+    font : 20px arial;
+    border : none;
+    border-bottom: 2px solid;border-right: 1px solid;
+	border-radius: 5px;
+	width: 290px;
+	height: 40px;
+	margin: 20px;
+	margin-bottom: 10px;
+}
+.butt{
+    font:20px arial;
+    width:100px;
+    height:40px;
+    border-radius: 6px;
+    margin: 20px;
+	margin-bottom: 10px;
+}
+.butt:hover{
+    background-color: rgba(3, 18, 65, 0.836);
+}
+h1{
+    padding-top:20%;
+    display: inline;
+    
+}
